@@ -3,9 +3,5 @@ ultralytics
 opencv-python-headless
 numpy
 pillow
-torch
-torchvision
 pandas
 python-dotenv
-streamlit-webrtc
-av
