@@ -3,10 +3,9 @@ opencv-python-headless
 numpy
 pillow
 ultralytics
-torch
-torchvision
+torch --extra-index-url https://download.pytorch.org/whl/cpu
+torchvision --extra-index-url https://download.pytorch.org/whl/cpu
 pandas
 python-dotenv
 streamlit-webrtc
 av
-opencv-python-headless
