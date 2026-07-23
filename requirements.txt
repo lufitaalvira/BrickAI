@@ -9,3 +9,4 @@ pandas
 python-dotenv
 streamlit-webrtc
 av
+opencv-python-headless
